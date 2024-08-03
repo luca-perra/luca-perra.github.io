@@ -6,22 +6,107 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://easydrumsheetmusic.com/</loc>
-    <lastmod>2023-06-09T13:28:15+00:00</lastmod>
-    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/ac-dc-shoot-to-thrill</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/billy-talent-fallen-leaves</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/creedence-clearwater-revival-fortunate-son</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/deftones-my-own-summer-shove-it</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/eagles-hotel-california</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/fall-out-boy-this-ain-t-a-scene-it-s-an-arms-race</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/green-day-holiday</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/guns-n-roses-dont-cry</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/guns-n-roses-knockin-on-heavens-door</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/linkin-park-numb</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/megadeth-angry-again</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/megadeth-trust</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/metallica-don-t-tread-on-me</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/metallica-enter-sandman</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/metallica-for-whom-the-bell-tolls</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/metallica-sad-but-true</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/my-chemical-romance-teenagers</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/ozzy-osbourne-no-more-tears</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/pantera-walk</loc>
   </url>
   <url>
     <loc>https://easydrumsheetmusic.com/b/pixies-where-is-my-mind</loc>
-    <lastmod>2023-06-09T13:28:15+00:00</lastmod>
-    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/quiet-riot-cum-on-feel-the-noize</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/radiohead-creep</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/rammstein-mein-herz-brennt</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/rammstein-sonne</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/system-of-a-down-chop-suey</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/system-of-a-down-sugar</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/system-of-a-down-toxicity</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/the-cranberries-zombie</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/the-offspring-gone-away</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/the-offspring-self-esteem</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/the-police-every-breath-you-take</loc>
+  </url>
+  <url>
+    <loc>https://easydrumsheetmusic.com/b/weezer-pork-and-beans</loc>
   </url>
   <url>
     <loc>https://easydrumsheetmusic.com/search</loc>
-    <lastmod>2023-06-09T13:28:15+00:00</lastmod>
-    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://easydrumsheetmusic.com/b/all-drum-sheet-music</loc>
-    <lastmod>2023-06-09T13:28:15+00:00</lastmod>
-    <priority>0.64</priority>
   </url>
 </urlset>
